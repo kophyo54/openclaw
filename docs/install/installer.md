@@ -1,4 +1,5 @@
----
+---517d1336fe8c47e383fe66261377398f. 
+
 summary: "How the installer scripts work (install.sh, install-cli.sh, install.ps1), flags, and automation"
 read_when:
   - You want to understand `openclaw.ai/install.sh`
